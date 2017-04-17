@@ -1,4 +1,3 @@
 <?php
-header('Location: /main/');
-exit;
+include('views/main.html');
 ?>
